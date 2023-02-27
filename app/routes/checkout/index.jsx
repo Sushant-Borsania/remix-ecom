@@ -82,7 +82,6 @@ function CheckoutForm() {
           </div>
         </div>
 
-
         <div className="mt-10">
           <h3 className="text-lg font-medium text-gray-900">Payment details</h3>
           <div className="mt-6">

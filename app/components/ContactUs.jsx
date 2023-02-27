@@ -18,7 +18,7 @@ export default function ContactUs() {
               <div>
                 <dt className="sr-only">Postal address</dt>
                 <dd>
-                  <a className='block' rel="noreferrer" href="https://www.google.com/maps/place/687+Martindale+Blvd+NE,+Calgary,+AB+T3J+3W3/@51.1197638,-113.969179,17z/data=!3m1!4b1!4m5!3m4!1s0x5371638600d084fd:0x9a66206f44bf4f76!8m2!3d51.1197638!4d-113.969179">687 Martindale Blvd</a>
+                  <a className='block' rel="noreferrer" href="https://www.google.com/maps/place/687+Martindale+Blvd+NE,+Calgary,+AB+T3J+3W3/@51.1197638,-113.969179,17z/data=!3m1!4b1!4m5!3m4!1s0x5371638600d084fd:0x9a66206f44bf4f76!8m2!3d51.1197638!4d-113.969179">112909 Martindale Blvd</a>
                   <a className='block' target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/687+Martindale+Blvd+NE,+Calgary,+AB+T3J+3W3/@51.1197638,-113.969179,17z/data=!3m1!4b1!4m5!3m4!1s0x5371638600d084fd:0x9a66206f44bf4f76!8m2!3d51.1197638!4d-113.969179">NE Calgary T3J 3W3</a>
                 </dd>
               </div>

@@ -146,7 +146,7 @@ export default function Hero() {
 
                 <Link
                   to="/menu"
-                  className="inline-block rounded-md border border-transparent bg-amber-800 py-3 px-8 text-center font-medium text-white hover:bg-amber-700"
+                  className="inline-block rounded-md border border-transparent bg-amber-800 py-3 px-3 md:px-8 text-center font-medium text-white hover:bg-amber-700"
                 >
                   Buy delicious items
                 </Link>

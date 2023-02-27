@@ -10,7 +10,7 @@ export default function Banner({ content }) {
             <span className="flex rounded-lg bg-amber-800 p-2">
               <MegaphoneIcon className="h-6 w-6 text-white" aria-hidden="true" />
             </span>
-            <p className="ml-3 truncate font-medium text-white">
+            <p className="ml-3 font-medium text-white">
               <span>{content}</span>
             </p>
           </div>

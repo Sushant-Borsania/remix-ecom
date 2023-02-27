@@ -3,25 +3,25 @@ import { Link } from "@remix-run/react"
 const categories = [
   {
     name: 'Handavo',
-    href: '#',
+    href: '/menu',
     imageSrc: './items/item_1.jpeg',
   },
   {
     name: 'Dhokala',
-    href: '#',
+    href: '/menu',
     imageSrc: './items/item_2.jpeg',
   },
   {
     name: 'Sev khamani',
-    href: '#',
+    href: '/menu',
     imageSrc: './items/item_3.jpeg',
   },
   {
     name: 'White Dhokala',
-    href: '#',
+    href: '/menu',
     imageSrc: './items/item_4.jpeg',
   },
-  { name: 'Idada', href: '#', imageSrc: './items/item_5.jpeg' },
+  { name: 'Idada', href: '/menu', imageSrc: './items/item_5.jpeg' },
 ]
 
 
@@ -65,13 +65,6 @@ export default function Products() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="mt-6 px-4 sm:hidden">
-            <Link href="#" className="block text-sm font-semibold text-indigo-600 hover:text-indigo-500">
-              Browse all categories
-              <span aria-hidden="true"> &rarr;</span>
-            </Link>
           </div>
         </section>
       </main>
